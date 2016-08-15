@@ -1,0 +1,25 @@
+const
+g=10;
+pi=3.1415926535;
+var
+i,j,n,m,v,a:longint;
+k,sa,ca,tt,vx,vy,t,ans:double;
+begin
+assign(input,'ball.in');reset(input);
+assign(output,'ball.out');rewrite(output);
+ readln(v,a,k);
+ sa:=sin(a*pi/180);
+ ca:=cos(a*pi/180);
+ vx:=ca*v;
+ vy:=sa*v;
+ tt:=1/sqrt(k);
+ while 2*vy*vx/g>0.000001 do
+  begin
+   ans:=ans+2*vy*vx/g;
+   vy:=vy*tt;
+   vx:=vx*tt;
+  end;
+ writeln(ans:0:2);
+close(input);
+close(output);
+end.

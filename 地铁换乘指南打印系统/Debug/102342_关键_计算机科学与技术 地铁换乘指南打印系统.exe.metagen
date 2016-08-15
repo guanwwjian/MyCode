@@ -1,0 +1,32 @@
+  My102342_关键_计算机科学与技术地铁换乘指南打印系统.Form1.resources - Embedded, ContainedInManifestFile, 
+  My102342_关键_计算机科学与技术地铁换乘指南打印系统.Form2.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly 102342_关键_计算机科学与技术 地铁换乘指南打印系统, Version=1.0.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class My102342.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.ComboBox comboBox2 : Public
+    System.Windows.Forms.ComboBox comboBox1 : Public
+    My102342.Da d : Public
+  Methods:
+    updatec(): PrivateScope, Public, HideBySig
+    updatep(): PrivateScope, Public, HideBySig
+    updatepac(): PrivateScope, Public, HideBySig
+    updatepc(): PrivateScope, Public, HideBySig
+Class My102342.Form2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(My102342.Form1): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

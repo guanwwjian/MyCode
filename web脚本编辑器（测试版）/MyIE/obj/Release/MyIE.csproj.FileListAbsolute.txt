@@ -1,0 +1,15 @@
+D:\文件\MyIE\MyIE\MyIE\obj\Release\MyIE.exe
+D:\文件\MyIE\MyIE\MyIE\obj\Release\MyIE.pdb
+D:\文件\MyIE\MyIE\MyIE\bin\Release\MyIE.exe
+D:\文件\MyIE\MyIE\MyIE\bin\Release\MyIE.pdb
+D:\文件\MyIE\MyIE\MyIE\obj\Release\ResolveAssemblyReference.cache
+D:\文件\MyIE\MyIE\MyIE\obj\Release\MyIE.AboutMyIE.resources
+D:\文件\MyIE\MyIE\MyIE\obj\Release\MyIE.Form1.resources
+D:\文件\MyIE\MyIE\MyIE\obj\Release\MyIE.Form2.resources
+D:\文件\MyIE\MyIE\MyIE\obj\Release\MyIE.Form3.resources
+D:\文件\MyIE\MyIE\MyIE\obj\Release\MyIE.Properties.Resources.resources
+D:\文件\MyIE\MyIE\MyIE\obj\Release\MyIE.csproj.GenerateResource.Cache
+D:\文件\MyIE\MyIE\MyIE\obj\Release\Interop.SHDocVw.dll
+D:\文件\MyIE\MyIE\MyIE\obj\Release\MyIE.csproj.ResolveComReference.cache
+D:\文件\MyIE\MyIE\MyIE\bin\Release\Interop.SHDocVw.dll
+D:\文件\MyIE\MyIE\MyIE\obj\Release\MyIE.Form4.resources

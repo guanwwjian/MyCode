@@ -1,0 +1,2 @@
+编译：在VS2013环境下，需要Opengl支持
+运行：windows8.1、framework 4.5

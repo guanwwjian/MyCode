@@ -1,0 +1,14 @@
+NO sunny hot high false
+NO sunny hot high true
+YES overcast hot high false
+YES rain mild high false
+YES rain cool normal false
+NO rain cool normal true
+YES overcast cool normal true
+NO sunny mild high false
+YES sunny cool normal false
+YES rain mild normal false
+YES sunny mild normal true
+YES overcast mild high true
+YES overcast hot normal false
+NO rain mild high true

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "关键 102342 ID3算法", "关键 102342 ID3算法\关键 102342 ID3算法.vcproj", "{BE22F94D-996A-4B6D-BFAD-F21A1409FD37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE22F94D-996A-4B6D-BFAD-F21A1409FD37}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BE22F94D-996A-4B6D-BFAD-F21A1409FD37}.Debug|Win32.Build.0 = Debug|Win32
+		{BE22F94D-996A-4B6D-BFAD-F21A1409FD37}.Release|Win32.ActiveCfg = Release|Win32
+		{BE22F94D-996A-4B6D-BFAD-F21A1409FD37}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

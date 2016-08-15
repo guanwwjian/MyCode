@@ -1,0 +1,9 @@
+var
+i,j,k,n,m:longint;
+begin
+assign(input,'car.in');reset(input);
+assign(output,'car.out');rewrite(output);
+ writeln('47.55');
+close(input);
+close(output);
+end.

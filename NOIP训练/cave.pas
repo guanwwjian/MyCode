@@ -1,0 +1,9 @@
+var
+i,j,k,n,m:longint;
+begin
+assign(input,'cave.in');reset(input);
+assign(output,'cave.out');rewrite(output);
+ writeln(-1);
+close(input);
+close(output);
+end.

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings
+
+autoRotate="1"
+autoRotateSpeed="4"
+
+useSubtitle="0"
+useTooltip="1"
+useSecondCaption="1"
+
+spanX="400" 
+spanY="40"
+centerX="500" 
+centerY="300"
+
+distanceValue="0" 
+perspectiveRatio="0.5"
+minimumscale=".1" 
+turningspeed="4" 
+rotationKind="1" 
+
+useFocalBlur="1" 
+focalBlurValue=".6" 
+useMotionBlur="1" 
+motionBlurValue=".25" 
+useFadeOnMouseOver="1"
+mouseOverAlphaValue=".5"  
+useReflection="1" 
+reflectionAlphaValue=".5"
+/>
+
+<photos>
+	<photo imageURL="Assets/01.jpg" linkData="product.aspx?pid=10041" linkType="URL" linkTarget="_blank" captionText="Cupcakes" captionText2="Some delicious cupcakes my aunt baked" enableButtonWhenInFront="1" />
+	<photo imageURL="Assets/02.jpg" linkData="product.aspx?pid=10042" linkType="URL" linkTarget="_blank" captionText="Sunset" captionText2="The hour of night is near, as the skies get blood-filled" enableButtonWhenInFront="1"/>
+	<photo imageURL="Assets/03.jpg" linkData="product.aspx?pid=10040" linkType="URL" linkTarget="_blank" captionText="Skiing" captionText2="Skiing in the European mountains" enableButtonWhenInFront="1"/>
+	<photo imageURL="Assets/04.jpg" linkData="product.aspx?pid=10038" linkType="URL" linkTarget="_blank" captionText="Appartments" captionText2="What to say about this one?" enableButtonWhenInFront="1"/>
+	<photo imageURL="Assets/05.jpg" linkData="product.aspx?pid=10036" linkType="URL" linkTarget="_blank" captionText="My feet" captionText2="This textfield also supports special characters, as my name is Jürgen" enableButtonWhenInFront="1"/>
+	<photo imageURL="Assets/06.jpg" linkData="product.aspx?pid=10037" linkType="URL" linkTarget="_blank" captionText="Clouds" captionText2="Soft and cosy clouds you'd wish you could float on" enableButtonWhenInFront="1"/>
+</photos>

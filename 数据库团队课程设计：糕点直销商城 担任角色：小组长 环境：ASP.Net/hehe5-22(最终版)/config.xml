@@ -1,0 +1,25 @@
+<?xml version= "1.0" encoding= "utf-8"?>
+<config 
+	xmlSource="banner.xml"
+	slideDuration="3"
+	slideTransitionDuration="1"
+	captionTransition="Strong"
+	captionTransitionDuration="1"
+	fontsXMLSource="fonts.xml"
+	fontsEmbedded="true"
+	frameWidth="350"
+	frameHeight="230"
+	frameBgColor="0x707070"
+	frameBgTransparent="1"
+	framePaddingTop="20"
+	framePaddingBottom="20"
+	framePaddingLeft="20"
+	framePaddingRight="20"
+	frameCornerRadius="20"
+	controlsBarColor="0x000000"
+	controlsBarTransparent="0.75"
+	controlsColor="0xFFFFFF"
+	controlsHighlight="0x00ccff"
+	controlsBgColor="0x006666"
+	controlsBgTransparent="0.15">
+</config>

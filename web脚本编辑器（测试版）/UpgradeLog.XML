@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MyIE">
+</Property><Property Name="解决方案文件" Value="D:\文件\MyIE\MyIE\MyIE.sln">
+</Property><Property Name="用户选项文件" Value="D:\文件\MyIE\MyIE\MyIE.suo">
+</Property><Property Name="Date" Value="2010年5月13日">
+</Property><Property Name="Time" Value="11:02">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MyIE.sln" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MyIE.suo" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE.suo">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\MyIE.csproj" Description="项目文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\MyIE.csproj">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\AboutBox1.cs" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\AboutBox1.cs">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\AboutBox1.Designer.cs" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\AboutBox1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Form1.cs" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Form1.cs">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Form1.Designer.cs" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Form2.cs" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Form2.cs">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Form2.Designer.cs" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Form3.cs" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Form3.cs">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Form3.Designer.cs" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Program.cs" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Program.cs">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Properties\Settings.settings" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\button_cancel.ico" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\button_cancel.ico">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\player_play.ico" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\player_play.ico">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\bookmark_folder.ico" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\bookmark_folder.ico">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\NextHtml.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\NextHtml.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\Home.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\Home.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\history.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\history.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\FowedEnabled.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\FowedEnabled.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\fawedfalse.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\fawedfalse.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\Edit.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\Edit.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\ClosedSelectdPageHui.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\ClosedSelectdPageHui.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\ClosedSelectdPage.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\ClosedSelectdPage.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\ClosedAll.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\ClosedAll.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\Backfalse.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\Backfalse.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\BackEnable.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\BackEnable.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\Stop.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\Stop.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\Shouchang.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\Shouchang.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\Serach.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\Serach.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\Refresh.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\Refresh.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\print.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\print.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\PrevewHtml.bmp" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\PrevewHtml.bmp">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\mail_delete.ico" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\mail_delete.ico">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Resources\DSC00155.JPG" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Resources\DSC00155.JPG">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\ie_green_uc.ico" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\ie_green_uc.ico">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\liti275.ico" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\liti275.ico">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\AboutBox1.resx" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Form1.resx" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Form1.resx">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Form2.resx" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Form2.resx">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Form3.resx" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Form3.resx">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\Properties\Resources.resx" Description="文件已成功备份为 D:\文件\MyIE\MyIE\Backup\MyIE\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\MyIE.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="MyIE" Source="MyIE\MyIE.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MyIE.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="MyIE.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyIE" Source="MyIE\MyIE.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

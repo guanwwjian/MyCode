@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<banner>
+	<item image="photos/photo01.jpg" align="rt" link="product.aspx?pid=10055" target="iframepage">
+		<![CDATA[<font face="Impact" size="24" color='#663b35'>Prague online</font><br><font face="Myriad Pro" size="14" color='#b98a6e'>SEE PHOTO, READ ARTICLES</font><br><font face="Myriad Pro" size="13" color='#663b35'>www.yourpraguecity.com</font>]]>
+	</item>
+	<item image="photos/photo02.jpg" align="rb" link="product.aspx?pid=10056" target="iframepage">
+		<![CDATA[<font face="Impact" size="24" color='#FFFFFF'>City in the evening</font><br><font face="Myriad Pro" size="14" color='#fcb5db'>Photos and Articles</font><br><font face="Myriad Pro" size="13" color='#FFFFFF'>SEE PHOTO, READ ARTICLES</font>]]>
+	</item>
+	<item image="photos/photo03.jpg" align="lb" link="product.aspx?pid=10031" target="iframepage">
+		<![CDATA[<font face="Impact" size="24" color='#faddbf'>OUR SERVICE</font><br><font face="Myriad Pro" size="14" color='#f87a65'>professional private guides</font><br><font face="Myriad Pro" size="13" color='#FFFFFF'>SEE PHOTO, READ ARTICLES</font>]]>
+	</item>
+	<item image="photos/photo04.jpg" align="rb" link="product.aspx?pid=10035" target="iframepage">
+		<![CDATA[<font face="Impact" size="24" color='#cabba8'>Dresden online</font><br><font face="Myriad Pro" size="14" color='#00ccff'>SEE PHOTO, READ ARTICLES</font><br><font face="Tahoma" size="12" color='#F0F0F0'><b>www.yourdresdencity.com</b></font>]]>
+	</item>
+</banner>

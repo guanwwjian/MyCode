@@ -1,0 +1,19 @@
+var
+i,j,k,n,m:longint;
+ans,st,rest:double;
+begin
+assign(input,'heat.in');reset(input);
+assign(output,'heat.out');rewrite(output);
+ readln(n);
+ st:=0;
+ rest:=0;
+ for i:= n downto 1 do
+  begin
+   st:=st+100-rest;
+   rest:=rest+(100-rest)/i;
+  end;
+ ans:=st*4200/n;
+ writeln(ans:0:2);
+close(input);
+close(output);
+end.

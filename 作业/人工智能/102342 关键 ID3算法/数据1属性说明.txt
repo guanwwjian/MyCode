@@ -1,0 +1,6 @@
+0
+class YES NO
+outlook sunny overcast rain
+temperature hot mild cool
+humidity high normal
+windy false true

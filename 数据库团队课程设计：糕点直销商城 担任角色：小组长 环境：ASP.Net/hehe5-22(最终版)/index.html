@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>File Preview</title>
+<script type="text/javascript" src="swfobject.js"></script>
+<style>
+body{
+	background-color: #333333;
+}
+.style1 {
+	color: #FFFFFF;
+	font-family: arial;
+	font-size: 11px;
+}
+</style>
+</head>
+
+<body>
+<div class="style1" align="center" id="loader">Loading problems.</div>
+<script type="text/javascript">
+			// <![CDATA[
+				var so = new SWFObject("viewer.swf", "sotester", "1000", "650", "9", "#000000");
+				so.addParam("flashvars", "&xmlLocation=data.xml");
+				so.write("loader");
+			// ]]>	
+			</script>
+</body>
+</html>

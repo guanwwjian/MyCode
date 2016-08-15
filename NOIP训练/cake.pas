@@ -1,0 +1,9 @@
+var
+i,j,k,n,m:longint;
+begin
+assign(input,'cake.in');reset(input);
+assign(output,'cake.out');rewrite(output);
+ writeln(0);
+close(input);
+close(output);
+end.

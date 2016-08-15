@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fonts>
+	<font title="Myriad Pro" className="MyriadPro" url="fonts/MyriadPro.swf"/>
+	<font title="Impact" className="Impact" url="fonts/Impact.swf"/>
+	<font title="Tahoma" className="Tahoma" url="fonts/Tahoma.swf"/>
+	<font title="Tahoma Bold" className="TahomaBold" url="fonts/TahomaBold.swf"/>
+</fonts>

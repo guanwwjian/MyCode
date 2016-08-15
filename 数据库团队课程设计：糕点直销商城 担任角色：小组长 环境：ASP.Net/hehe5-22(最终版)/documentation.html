@@ -1,0 +1,365 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Documentation by Jurgenv</title>
+<style type="text/css">
+<!--
+* {
+	font-family: Tahoma;
+	font-size: 12px;
+}
+a:link {
+	text-decoration: none;
+	color: #8fc441;
+}
+a:visited {
+	text-decoration: none;
+	color: #8fc441;
+}
+a:active {
+	text-decoration: none;
+	color: #8fc441;
+}
+a:hover { 
+	text-decoration: none;
+	color: #CCCCCC;
+}
+.big {
+	font-size: 24px;
+	font-weight: bold;
+}
+.green {
+	color: #8fc441;
+	font-size: 24px;
+	font-weight: bold;
+}
+.grey {
+	color: #CCCCCC;
+	font-size: 24px;
+	font-weight: bold;
+}
+.bar{width:800px; background-color:#F4F4F4; padding:10px;}
+.content{width:800px; padding:10px;}
+.small {font-size: 10px}
+.style6 {color: #000000}
+.style7 {color: #666666}
+.style9 {color: #CCCCCC; font-weight: bold; }
+-->
+</style>
+</head>
+
+<body>
+<div class="bar">
+<b>Documentation on</b><br />
+      <span class="big"> Carousel<span class="green">Designer</span> <span class="grey">v2</span></span><br />
+<span class="small">by <a href="http://www.flashden.net/user/jurgenv">Jurgenv</a> - <a href="http://www.jurgenvisser.nl">www.jurgenvisser.nl</a></span></div>
+</span><br />
+<div class="content">
+<p><b>Package contents</b></p>
+<p>The package you downloaded contains the following files:<br />
+- documentation.html<br />
+- viewer.fla<br />
+- viewer.swf<br />
+- viewer_no_options.fla<br />
+- viewer_no_options.swf<br />
+  - data.xml<br />
+  - Assets (folder containing sample videos, images or sounds)</p>
+<p><b>Modification instructions</b></p>
+<p>In the .xml file that comes with the package, you can set a number of variables in the &lt;settings /&gt; tag. They are shown in the table below:</p>
+<table width="800" border="0" cellpadding="5" cellspacing="0">
+  <tr>
+    <td height="20" bgcolor="#333333"><span class="style9">Variable name </span></td>
+    <td width="88" bgcolor="#333333"><span class="style9">Variable type </span></td>
+    <td width="106" bgcolor="#333333"><span class="style9">Value range </span></td>
+    <td width="416" bgcolor="#333333"><span class="style9">Variable description </span></td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#666666" class="style6">Automatical rotation</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#EEEEEE">autoRotate</td>
+    <td valign="top" bgcolor="#EEEEEE">Boolean</td>
+    <td valign="top" bgcolor="#EEEEEE">0/1</td>
+    <td valign="top" bgcolor="#EEEEEE">Whether to automatically scroll through the images (only available when rotationKind is set to 1)</td>
+  </tr>
+  <tr>
+    <td valign="top">autoRotateSpeed</td>
+    <td valign="top">Number</td>
+    <td valign="top">any</td>
+    <td valign="top">The time before the carousel autorotates to the next image.</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#666666"><span class="style6">Caption display</span></td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="EEEEEE"><span class="style6">useSubtitle</span></td>
+    <td valign="top" bgcolor="EEEEEE"><span class="style6">Boolean</span></td>
+    <td valign="top" bgcolor="EEEEEE"><span class="style6">0/1</span></td>
+    <td valign="top" bgcolor="EEEEEE"><span class="style6">Whether to show the captiontext below the image (only available when rotationKind is set to 1)</span></td>
+  </tr>
+  <tr>
+    <td valign="top">useTooltip</td>
+    <td valign="top">Boolean</td>
+    <td valign="top">0/1</td>
+    <td valign="top">Whether to show a tooltip on mouseOver</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#EEEEEE">useSecondCaption</td>
+    <td valign="top" bgcolor="#EEEEEE">Boolean</td>
+    <td valign="top" bgcolor="#EEEEEE">0/1</td>
+    <td valign="top" bgcolor="#EEEEEE">Whether to show a second line of caption.</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#666666">Positioning</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#EEEEEE">
+    <td width="150" valign="top">spanX</td>
+    <td valign="top">Number</td>
+    <td valign="top">any</td>
+    <td valign="top">Width of the carousel </td>
+  </tr>
+  <tr>
+    <td valign="top">spanY</td>
+    <td valign="top">Number</td>
+    <td valign="top">any</td>
+    <td valign="top">Height of the carousel </td>
+  </tr>
+  <tr bgcolor="#EEEEEE">
+    <td valign="top">centerX</td>
+    <td valign="top">Number</td>
+    <td valign="top">any</td>
+    <td valign="top">The x-position of the center </td>
+  </tr>
+  <tr>
+    <td valign="top">centerY</td>
+    <td valign="top">Number</td>
+    <td valign="top">any</td>
+    <td valign="top">The y-position of the center </td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#666666">Perspective</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#EEEEEE">
+    <td valign="top">distanceValue</td>
+    <td valign="top">Number</td>
+    <td valign="top">0-1</td>
+    <td valign="top">The z-distance from the viewer. When this is 0 the front image will have a 100% size. </td>
+  </tr>
+  <tr>
+    <td valign="top">perspectiveRatio</td>
+    <td valign="top">Number</td>
+    <td valign="top">0-1</td>
+    <td valign="top">How much perspective should be applied. 1 = none. </td>
+  </tr>
+  <tr bgcolor="#EEEEEE">
+    <td valign="top">minimumscale</td>
+    <td valign="top">Number</td>
+    <td valign="top">0-0.9</td>
+    <td valign="top">The size of the back image relative to the front image. If this is 0.5, the back image will be 50% of the front image's size. </td>
+  </tr>
+  <tr>
+    <td valign="top">turningspeed</td>
+    <td valign="top">Number</td>
+    <td valign="top">&gt; 0 </td>
+    <td valign="top">Speed of the rotation </td>
+  </tr>
+  <tr bgcolor="#EEEEEE">
+    <td valign="top">rotationKind</td>
+    <td valign="top">Boolean</td>
+    <td valign="top">0/1</td>
+    <td valign="top">The type of rotation. 0 will make the carousel rotate based on the _xmouse position. 1 will create buttons and navigation bar.</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#666666"><span class="style7"></span>Visual effects</td>
+    <td valign="top" bgcolor="#666666"><span class="style7"></span></td>
+    <td valign="top" bgcolor="#666666"><span class="style7"></span></td>
+    <td valign="top" bgcolor="#666666"><span class="style7"></span></td>
+  </tr>
+  <tr bgcolor="#EEEEEE">
+    <td valign="top">useFocalBlur</td>
+    <td valign="top">Boolean</td>
+    <td valign="top">0/1</td>
+    <td valign="top">Whether to apply focal blur (1) or not (0) </td>
+  </tr>
+  <tr>
+    <td valign="top">focalBlurValue</td>
+    <td valign="top">Number</td>
+    <td valign="top">0-1</td>
+    <td valign="top">Amount of focal blur </td>
+  </tr>
+  <tr bgcolor="#EEEEEE">
+    <td valign="top">useMotionBlur</td>
+    <td valign="top">Boolean</td>
+    <td valign="top">0/1</td>
+    <td valign="top">Whether to apply motion blur (1) or not (0) </td>
+  </tr>
+  <tr>
+    <td valign="top">motionBlurValue</td>
+    <td valign="top">Number</td>
+    <td valign="top">0-1</td>
+    <td valign="top">Amount of motion blur </td>
+  </tr>
+  <tr bgcolor="#EEEEEE">
+    <td valign="top">useFadeOnMouseOver</td>
+    <td valign="top">Boolean</td>
+    <td valign="top">0/1</td>
+    <td valign="top">Whether to highlight image on mouseover </td>
+  </tr>
+  <tr>
+    <td valign="top">mouseOverAlphaValue</td>
+    <td valign="top">Number</td>
+    <td valign="top">0-1</td>
+    <td valign="top">Alpha value of images that fade out on mouseover (see above) </td>
+  </tr>
+  <tr bgcolor="#EEEEEE">
+    <td valign="top">useReflection</td>
+    <td valign="top">Boolean</td>
+    <td valign="top">0/1</td>
+    <td valign="top">Whether to apply a reflection on images </td>
+  </tr>
+  <tr>
+    <td valign="top">reflectionAlphaValue</td>
+    <td valign="top">Number</td>
+    <td valign="top">0-1</td>
+    <td valign="top">Alpha value of the reflection </td>
+  </tr>
+</table>
+<p>Every image also has its own properties. They are listed in the table below: </p>
+<table width="800" border="0" cellpadding="5" cellspacing="0">
+  <tr>
+    <td height="20" bgcolor="#333333"><span class="style9">Variable name </span></td>
+    <td width="62" bgcolor="#333333"><span class="style9">Variable type </span></td>
+    <td width="128" bgcolor="#333333"><span class="style9">Value range </span></td>
+    <td width="414" bgcolor="#333333"><span class="style9">Variable description </span></td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#666666" class="style6">Image</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#EEEEEE">ImageURL</td>
+    <td valign="top" bgcolor="#EEEEEE">String</td>
+    <td valign="top" bgcolor="#EEEEEE">any</td>
+    <td valign="top" bgcolor="#EEEEEE">URL of the image to load</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#666666"><span class="style6">Linkage</span></td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="EEEEEE"><span class="style6">linkData</span></td>
+    <td valign="top" bgcolor="EEEEEE"><span class="style6">String</span></td>
+    <td valign="top" bgcolor="EEEEEE"><span class="style6">any</span></td>
+    <td valign="top" bgcolor="EEEEEE">Either a URL to visit when clicked, a frame number, a frame label or a movie to load. </td>
+  </tr>
+  <tr>
+    <td valign="top">linkType</td>
+    <td valign="top">String</td>
+    <td valign="top">&quot;URL&quot;, &quot;frameNumber&quot;, &quot;frameLabel&quot; or &quot;loadMovie&quot;</td>
+    <td valign="top">A command to tell what to do with the linkData and linkTarget. See below for examples.</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#EEEEEE">linkTarget</td>
+    <td valign="top" bgcolor="#EEEEEE">String</td>
+    <td valign="top" bgcolor="#EEEEEE">A html target or the movieclip from which linkData is defined.</td>
+    <td valign="top" bgcolor="#EEEEEE">Telling what the linking command applies to. See below for examples.</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#666666">Caption text</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#EEEEEE">
+    <td width="156" valign="top">captionText</td>
+    <td valign="top">String</td>
+    <td valign="top">any</td>
+    <td valign="top">The first caption text of the image</td>
+  </tr>
+  <tr>
+    <td valign="top">captionText2</td>
+    <td valign="top">String</td>
+    <td valign="top">any</td>
+    <td valign="top">A second line of captiontext, only visible when useSecondCaption is set to 1 (see above)</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#666666">Button activity</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+    <td valign="top" bgcolor="#666666">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#EEEEEE">
+    <td valign="top">buttonEnabledWhenInFront</td>
+    <td valign="top">Boolean</td>
+    <td valign="top">0/1</td>
+    <td valign="top">Whether to enable the button when the image is in front (if rotationKind = 1). This can be used to load a .swf that you'd like to keep it's own button actions.</td>
+  </tr>
+</table>
+<p><i>Linking examples</i></p>
+<p>The example below would visit http://www.google.com in a new browser window. <br />
+   linkData=&quot;http://www.google.com&quot; linkType=&quot;URL&quot; linkTarget=&quot;_blank&quot;</p>
+<p>The example below would make the root timeline go to frame number 2 <br />
+  linkData=&quot;2&quot; linkType=&quot;frameNumber&quot; linkTarget=&quot;_root&quot;</p>
+<p>The example below would make the root timeline go to the frame with label myFrameLabel <br />
+  linkData=&quot;myFrameLabel&quot; linkType=&quot;frameLabel&quot; linkTarget=&quot;_root&quot;</p>
+<p>The example below would make the movieclip myMovieClip in the root timeline go to frame number 2 <br />
+ linkData=&quot;2&quot; linkType=&quot;frameNumber&quot; linkTarget=&quot;myMovieClip&quot;</p>
+<p>The example below would make _root.someMovieClip load someSwf.swf:<br />
+linkData=&quot;someSwf.swf&quot; linkType=&quot;loadMovie&quot; linkTarget=&quot;someMovieClip&quot;</p>
+<p><em>Resizing the carousel</em></p>
+<p>To resize the carousel there are a few simple actions you should walk through:</p>
+<ul>
+  <li>Open index.html</li>
+  <li>On line 23 change &quot;1000&quot; and &quot;650&quot; to the desired width and height</li>
+  </ul>
+<p>Now if you open index.html in your browser, nothing has changed to the size of the carousel orbit itself, only to the stage's size. To change the carousel's size, do the following:</p>
+<ul>
+  <li>Open data.xml</li>
+  <li>Change the centerX and centerY values to the x and y value you want the center of your carousel to be. If you want the carousel to be centered on your stage, these values should be half of the width and height value you entered above.</li>
+  <li>Change the spanX and spanY value to the desired width and height of your carousel. Note that these are the values for the orbit, so the carousel will be slightly bigger because of the images' width and height.</li>
+  </ul>
+<p><em>Making an object centered in the carousel</em></p>
+<p>I've had a lot of requests from people who wanted a movieclip centered in the movie. I've made it very easy in this v2 to do that.</p>
+<ul>
+  <li>Make yourself a movieclip that you want to place in the center. Put it <em>inside</em> the carousel movieclip.</li>
+  <li>Go to that movieclip and put the following ActionScript in it:<br />
+    <br />
+<textarea name="textarea" id="textarea" cols="100" rows="3">this.onEnterFrame=function(){
+      _parent.centerObject(this);
+}</textarea>
+  </li>
+</ul>
+<p><em>Defining your own .xml file</em></p>
+<p>If you want to make various carousels, but don't want to upload a zillion copies of the viewer.swf file, you can now choose a xml file defined in the html! So now you only have to make several .xml files.</p>
+<ul>
+  <li>Open index.html</li>
+  <li>On line 24, change data.xml to the name of your desire</li>
+</ul>
+<p><b>Copyright notices</b></p>
+<p>You may use this file in any of your projects, either commercial or non-commercial. You may not resell this file as is, or as part of a package. You may though use this file as part of a custom project (e.g. website) for which you earn a payment.</p>
+<p><b>Credits</b></p>
+<p>I would appreciate it if you'd put my name and a link to my website (<a href="http://www.jurgenvisser.nl">www.jurgenvisser.nl</a>) somewhere in the project where you used this file, but of course you don't have to. Also I love to see how my files are being used, so if you have finished your project I would really appreciate it if you would send me a link at <a href="mailto:jurgenvisser@gmail.com">jurgenvisser@gmail.com</a>.</p>
+<p><i>Thank you for purchasing this file,</i></p>
+<p><i>JurgenV </i></p>
+</div>
+
+</body>
+
+</html>

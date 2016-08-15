@@ -1,0 +1,59 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+	font-family: Arial, Helvetica, sans-serif;
+}.huise {
+	font-family: "宋体";
+	font-size: 12px;
+	font-style: normal;
+	line-height: 20px;
+	color: #6B5B15;
+}
+.huise :link { font-size:12px; color:#4D4D4D; text-decoration:none}
+.huise :visited { font-size:12px; color:#4D4D4D; text-decoration:none}
+.huise :hover { font-size:12px; color:#FF3300; text-decoration:underline}
+.huise :active { font-size:12px; color:#FF3300; text-decoration:none}
+
+.shenhong :link { font-size:12px; color:#666666; text-decoration:none}
+.shenhong :visited { font-size:12px; color:#666666; text-decoration:none}
+.shenhong :hover { font-size:12px; color:#4D4D4D; text-decoration:underline}
+.shenhong:active { font-size:12px; color:#4D4D4D; text-decoration:none}
+.cuhei {
+	font-family: "宋体";
+	font-size: 12px;
+	line-height: 20px;
+	color: D70100;
+}
+.huicu {
+	font-family: "宋体";
+	font-size: 12px;
+	line-height: 24px;
+	font-weight: bold;
+	color: #4D4D4D;
+}
+.biaodan {
+	font-family: "宋体";
+	font-size: 12px;
+	font-style: normal;
+	line-height: 24px;
+	color: #FF6600;
+	border: 1px solid 7094A4;
+}
+.qianhuang {
+	font-family: "宋体";
+	font-size: 12px;
+	font-style: normal;
+	line-height: 18px;
+	color: #6B5B15;
+}
+.baise {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #FFFFFF;
+}
